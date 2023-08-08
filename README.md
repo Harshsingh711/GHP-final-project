@@ -1,6 +1,4 @@
 
-## Robot Image 
-<img src="Images/Robot-image.png" width="500" />
 
 
 
