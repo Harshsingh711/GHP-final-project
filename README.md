@@ -1,4 +1,6 @@
-
+### Note
+- Arduino Code: Contains the Arduino NRF module code for the communication between computer vision and the shopping cart. The robot code itself is the code that makes the Arduino cart move
+- Main.py: contains the computer vision code that is separately run on a laptop or PC.
 
 
 
