@@ -35,7 +35,6 @@ breadboard Half(size) | 1 or 2
 - **Iriun WebCam**
     - It will convert smartphone as wireless camera for us
     - Download software for Windows Linux, and Mac : https://iriun.com/  
-    - My Tutorial on **Iriun Webcam** Link: https://youtu.be/0jGcbJdqQ1k
 ## Circuit Diagrams
 
 
