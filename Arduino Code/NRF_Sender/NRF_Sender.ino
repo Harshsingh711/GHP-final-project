@@ -1,15 +1,3 @@
-/*
--------------------------------------------
--    Author: Asadullah Dal                -
--    =============================        -
--    Company Name: AiPhile                -
--    =============================        -
--    Purpose : Youtube Channel            -
--    ============================         -
--    Link :https://youtube.com/c/aiphile  -
--------------------------------------------
-*/
-
 // Adding necessery Libraries
 #include <SPI.h>
 #include <nRF24L01.h>
